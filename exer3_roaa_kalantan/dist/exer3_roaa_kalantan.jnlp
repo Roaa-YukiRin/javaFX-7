@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="exer3_roaa_kalantan.jnlp">
+  <information>
+    <title>exer3_roaa_kalantan</title>
+    <vendor>HP</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="exer3_roaa_kalantan.jar" size="3018" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="exer3_roaa_kalantan" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="exer3_roaa_kalantan.Exer3_roaa_kalantan"  name="exer3_roaa_kalantan" />
+  <update check="always"/>
+</jnlp>

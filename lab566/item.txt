@@ -1,0 +1,5 @@
+Item Name:Rice Category:Sereal Quantity :100KG ExDate:2022-10-10
+Item Name:orange Category:Fruits Quantity :7 Boxes ExDate:2022-10-25
+Item Name:apple juise Category:Drinks Quantity :9 Packs ExDate:2022-10-25
+Item Name:apple  Category:Fruits Quantity :17 KG ExDate:2022-10-27
+Item Name:cheken Category:Meat Quantity :17 Grams ExDate:2022-10-27
